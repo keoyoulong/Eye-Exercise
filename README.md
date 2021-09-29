@@ -1,7 +1,9 @@
 # Eye-Exercise
 Moving the eyes by the mouse direction.
 **Project Title:** Eye-Movement
-<img src="pacman.jpg" width=300>
+
+<img src="pacman.png" width=300>
+
 When mouse moving, the eyes will move to the direction of the mouse move.
 
 To Run the project, have to download or close all files in the repository to your local machine in the same directory. Then run the index.html file on your broswer. Finally move your mouse to the eyes movement accordingly.
