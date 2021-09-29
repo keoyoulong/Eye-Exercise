@@ -2,12 +2,12 @@
 Moving the eyes by the mouse direction.
 
 **Project Title:** Eye-Movement
-
+<br>
 <img src="eyes.png" width='300'/>
-<a href="https://keoyoulong.github.io/">Move Back to Home</a>
-<button width="65"><a href="https://github.com/keoyoulong?tab=repositories"
-    style="text-decoration:none">Link to All Repository page</a></button>
-      
+<br>
+<a href="keoyoulong.github.io">Link To Home Page</a>
+<br>
+
 
 When mouse moving, the eyes will move to the direction of the mouse move.
 
