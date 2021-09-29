@@ -1,8 +1,9 @@
 # Eye-Exercise
 Moving the eyes by the mouse direction.
+
 **Project Title:** Eye-Movement
 
-<img src=".pacman.png" width='300'/>
+<img src="eyes.png" width='300'/>
 
 When mouse moving, the eyes will move to the direction of the mouse move.
 
